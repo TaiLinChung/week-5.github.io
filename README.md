@@ -48,15 +48,15 @@
 ## 要求五:
 > 5-1.在資料庫中，建立新資料表紀錄留⾔資訊，取名字為 message。必須包含欄位設定：
 
->> CREATE TABLE
+>> + CREATE TABLE
 
 >> ![](https://i.imgur.com/viazkDz.jpg)
 
->> BULID FORIENGE KEY
+>> + BULID FORIENGE KEY
 
 >> ![](https://i.imgur.com/ffaxE5X.jpg)
 
->> SHOW DATAS UNDER RELATIONAL
+>> + SHOW DATAS UNDER RELATIONAL
 
 >> ![](https://i.imgur.com/F20xTZE.jpg)
 
